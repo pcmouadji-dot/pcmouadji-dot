@@ -35,7 +35,7 @@ First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieu
 ---
 
 
-## 🌐 Connect with me
+## 🌐 COther platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
