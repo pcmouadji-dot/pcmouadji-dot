@@ -1,6 +1,6 @@
 # Hi, I'm Chihab 👋
 
-First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieure d'Informatique). Passionate about AI & Data Science — building ML models, exploring CNNs, and competing in hackathons. Currently seeking internships in AI/Data.
+First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieure d'Informatique). Passionate about AI & Data Science — building ML models and exploring the world of **computer science** in general. Deeply interested in **Computer Vision** and its real-world applications.
 
 ---
 
