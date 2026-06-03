@@ -22,17 +22,7 @@ First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieu
 
 ---
 
-## 🚀 Featured projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌸 [Flower Classification CNN](#) | CNN trained on flower species in Google Colab | Keras · Python |
-| 🏦 [Bank Churn Prediction](#) | Customer churn model with ensemble methods | Scikit-learn · Pandas |
-| 🎓 [Student Grade Predictor](#) | Predicts Algerian Bac outcomes using subject coefficients | Scikit-learn · Python |
-| 🩻 [Breast Cancer Classifier](#) | Binary classification using ML on diagnostic data | Scikit-learn |
-| 💉 [Diabetes Prediction](#) | Logistic regression + feature engineering | Pandas · Scikit-learn |
-
----
 
 
 ## 🌐 COther platforms
