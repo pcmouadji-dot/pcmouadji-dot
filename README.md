@@ -31,20 +31,11 @@ First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieu
 
 ---
 
-## 📜 Certifications
-
-- 🏅 IBM Python 101 for Data Science
-
----
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+
 
 ---
-
-## 📊 GitHub stats
-
-![Chihab's GitHub Stats](https://github-
