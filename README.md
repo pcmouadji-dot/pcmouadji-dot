@@ -32,5 +32,6 @@ Second-year CS Engineering student at **ESI Algiers** (École Nationale Supérie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chihab-eddine-mouadji-9b6076379)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/chadcsesi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chihabmouadji?igsh=MWE2ZGtqNDZ2d25zZw==)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@f_d9i9a)
 
 ---
