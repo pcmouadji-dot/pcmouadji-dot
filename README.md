@@ -1,6 +1,6 @@
 # Hi, I'm Chihab 
 
-First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieure d'Informatique). Passionate about AI & Data Science — building ML models and exploring the world of **computer science** in general. Deeply interested in **Computer Vision** and its real-world applications.
+Second-year CS Engineering student at **ESI Algiers** (École Nationale Supérieure d'Informatique). Passionate about AI & Data Science — building ML models and exploring the world of **computer science** in general. Deeply interested in **Computer Vision** and its real-world applications.
 
 ---
 
@@ -18,6 +18,9 @@ First-year CS Engineering student at **ESI Algiers** (École Nationale Supérieu
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-130654?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=flat&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logoColor=white)
 
 ---
 
